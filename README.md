@@ -1,2 +1,2 @@
-# terraform-az-nva-single-fortigate
-Azure NVA - Single Fortigate
+# Azure Network Virtual Appliance 
+## Fortigate Single VM

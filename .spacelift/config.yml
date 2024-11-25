@@ -1,0 +1,11 @@
+# version
+version: 1
+
+# module version
+module_version: 1.0.0
+
+# tests
+tests:
+ - name: Single Fortinet
+   project_root: examples/single-fortinet
+
